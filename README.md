@@ -1,10 +1,9 @@
-# Reza Khanahmadi's Project Portfolio
+# Reza Ahmadi's Projects Portfolio
 
 Welcome! This repository showcases a collection of my projects in Machine Learning and Deep Learning.
 
 https://github.com/user-attachments/assets/3679c558-f97f-4322-a3d7-fe6c98a3c891<!-- Optional: Link the banner image to your projects repo -->
 
-## Projects Showcase
 
 Here are some highlights from my projects:
 
