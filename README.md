@@ -19,7 +19,7 @@ Here are some highlights from my projects:
 ### 🦷 Dental OPG X-ray Analysis (Machine Learning)
 
 *   **Description:** Analysis performed on Dental OPG X-ray images.
-*   **Code:** [Machine_learning/Dental_OPG_Xray.ipynb](https://github.com/rezakhanahmadi342341/projects/blob/8e0c48117f6170a8d45bd549b7e7d5ad0f3a1cf3/Machine_learning/Dental_OPG_Xray.ipynb)
+*   **Code:** [Machine_learning/Dental_OPG_Xray.ipynb](https://github.com/rezakhanahmadi342341/projects/blob/8e0c48117f6170a8d45bd549b7e7d5ad0f3a1cf3/Deep_learning/Bone%20Fracture%20Detection.ipynb)
 *   **Preview:**
     ![Dental X-ray Analysis Screenshot](https://github.com/user-attachments/assets/8e99be9d-c5a6-4cca-9413-b965e009d60f), ![Clustering Results Visualization](https://github.com/user-attachments/assets/7db29a03-dd84-4a4f-ae4d-16c3be2c7594)
 
