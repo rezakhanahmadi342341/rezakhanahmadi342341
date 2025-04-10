@@ -15,6 +15,14 @@ Here are some highlights from my projects:
 
 ---
 
+### 👌signs detection
+
+*    **Description:** I trained a custom model with a custom dataset to detect specific human signs, and when detect sign the computer well speak the meaning of sign in English.
+*    **code:** [signs detection](https://github.com/rezakhanahmadi342341/projects/blob/efa7cace49d22995e57744a8e67cfc27caf06e4b/Deep_learning/sing%20detection%20and%20speaking.py)
+*    **Preview:** ![signs detection project](https://github.com/user-attachments/assets/c1285e4a-af9d-4d8e-a07f-f4a59bd0d580)
+
+---
+
 ### 🦷 Dental OPG X-ray Analysis (Machine Learning)
 
 *   **Description:** Analysis performed on Dental OPG X-ray images.
@@ -44,6 +52,14 @@ Here are some highlights from my projects:
 
 ---
 
+### 💻 Virtual Drag and Drop
+
+*    **Description:** Virtual Drag and Drop using OpenCV Python | cvzone
+*    **code:** [Virtual Drag and Drop code](https://github.com/rezakhanahmadi342341/projects/blob/efa7cace49d22995e57744a8e67cfc27caf06e4b/Virtual%20Drag%20and%20Drop.py)
+*    **Preview:** ![virtual Drag and Drop project](https://github.com/user-attachments/assets/d2de5ab8-1c83-4832-8089-a3803c713c9c)
+
+---
+
 
 ![Project Visualization 1](https://github.com/user-attachments/assets/2ca228f4-0380-4672-a12e-29f458bb0b05)
 
@@ -52,9 +68,6 @@ Here are some highlights from my projects:
 
 
 ![Project Visualization 3](https://github.com/user-attachments/assets/459b9098-a3f3-4a67-9abf-7cccb27f48b2)
-
-
-![Project Visualization 4](https://github.com/user-attachments/assets/c1285e4a-af9d-4d8e-a07f-f4a59bd0d580)
 
 
 ---
