@@ -60,6 +60,13 @@ Here are some highlights from my projects:
 
 ---
 
+### 😊 Emotion Detection
+
+*    **Description:** Emotion Detection project using kaggle dataset, and sequential.  
+*    **code:** [emotion_detection](https://github.com/rezakhanahmadi342341/projects/blob/efa7cace49d22995e57744a8e67cfc27caf06e4b/emotion_detection.ipynb)
+*    **Preview:** ![emotion_detection](https://github.com/user-attachments/assets/6db6c6cf-e254-4f46-887c-671a90bcc498)
+
+---
 
 ![Project Visualization 1](https://github.com/user-attachments/assets/2ca228f4-0380-4672-a12e-29f458bb0b05)
 
