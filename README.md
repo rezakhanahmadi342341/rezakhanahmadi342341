@@ -2,7 +2,7 @@
 
 Welcome! This repository showcases a collection of my projects in Machine Learning and Deep Learning.
 
-Here are some highlights from my projects:
+
 
 https://github.com/user-attachments/assets/ee227447-2c10-4bd0-9815-cb94ad6aaed2
 
