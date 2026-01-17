@@ -2,10 +2,23 @@
 
 Welcome! This repository showcases a collection of my projects in Machine Learning and Deep Learning.
 
+Here are some highlights from my projects:
+
+https://github.com/user-attachments/assets/ee227447-2c10-4bd0-9815-cb94ad6aaed2
+
+### Smart Traffic Analytics: Real-Time Car Counting with YOLO & ByteTrack
+
+*   **Description:** A real-time vehicle counting system that detects and tracks cars in any camera or video using YOLOv11, accurately counting vehicles as they cross a virtual line.
+*   **Code:** [Deep_learning/cars_detection.py](https://github.com/rezakhanahmadi342341/projects/blob/8e0c48117f6170a8d45bd549b7e7d5ad0f3a1cf3/Deep_learning/cars_detection.py)
+  
+
 https://github.com/user-attachments/assets/3679c558-f97f-4322-a3d7-fe6c98a3c891<!-- Optional: Link the banner image to your projects repo -->
 
 
-Here are some highlights from my projects:
+
+
+
+
 
 ### 🚗 Car Detection Video (Deep Learning)
 
